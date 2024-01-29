@@ -10,7 +10,7 @@ const Header = () => {
         <Link to="/">
           <h1 className="font-bold">Auth app</h1>
         </Link>
-        <ul className="flex gap-4">
+        <ul className="flex gap-4 items-center">
           <Link to="/">
             <li>Home</li>
           </Link>
